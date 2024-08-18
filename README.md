@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Password Generator Interface:**
 
-![Password Generator Interface](Password Gen Website/Assets/Interface.png)
+![Password Generator Interface](https://github.com/AnanduB13/Random-Password-Generator/blob/a83da00f9070f99a29f03006926fd024413d9b29/Password%20Gen%20Website/Assets/Interface.png?raw=true))
 
 **Generated Password Card:**
 
