@@ -40,7 +40,7 @@ This project is a simple and intuitive **Random Password Generator** built with 
 
 ## Author
 
-- Developed by [Anandu B Kurup]([https://your-portfolio-url.com](https://bfrevren.netlify.app/))
+- Developed by [Anandu B Kurup](https://bfrevren.netlify.app/)
 
 ## License
 
@@ -64,5 +64,3 @@ This project is licensed under the [MIT License](LICENSE).
 ### Contribution
 
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes. 
-
-**Issues:** If you encounter any issues, please [open an issue](https://github.com/your-username/random-password-generator/issues).
