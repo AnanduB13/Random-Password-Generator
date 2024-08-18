@@ -40,7 +40,7 @@ This project is a simple and intuitive **Random Password Generator** built with 
 
 ## Author
 
-- Developed by [Your Name](https://your-portfolio-url.com)
+- Developed by [Anandu B Kurup]([https://your-portfolio-url.com](https://bfrevren.netlify.app/))
 
 ## License
 
@@ -52,13 +52,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Password Generator Interface:**
 
-![Password Generator Interface](https://via.placeholder.com/800x400?text=Password+Generator+Interface)
+![Password Generator Interface](Password Gen Website/Assets/Interface.png)
 
 **Generated Password Card:**
 
-![Generated Password Card](https://via.placeholder.com/400x200?text=Generated+Password+Card)
-
-*(Replace placeholder images with actual screenshots of your application if available.)*
+![Generated Password Card](Password Gen Website/Assets/Password Card.png)
+ 
 
 ---
 
