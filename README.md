@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Generated Password Card:**
 
-![Generated Password Card](Password Gen Website/Assets/Password Card.png)
+![Generated Password Card](https://github.com/AnanduB13/Random-Password-Generator/blob/main/Password%20Gen%20Website/Assets/Password%20Card.png?raw=true)
  
 
 ---
