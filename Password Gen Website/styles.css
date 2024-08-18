@@ -1,0 +1,141 @@
+body, h1, h2, p, label, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.options-container {
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #444;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 1rem;
+    color: #555;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+button {
+    display: inline-block;
+    background-color: #007BFF;
+    color: white;
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#password-card {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+#password-card:hover {
+    background-color: #0056b3;
+}
+
+.password-text {
+    font-family: 'Courier New', Courier, monospace;
+    word-break: break-all;
+}
+
+.copy-message {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 0.9rem;
+    color: #fff;
+    opacity: 0.7;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    font-size: 1rem;
+    color: #555;
+    text-align: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.footer a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+input[type="number"] {
+    padding: 5px;
+    font-size: 1rem;
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    button {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+
+    .password-text {
+        font-size: 1rem;
+    }
+
+    #password-card {
+        width: 250px;
+        font-size: 1.2rem;
+    }
+
+    .footer {
+        font-size: 0.9rem;
+    }
+}
