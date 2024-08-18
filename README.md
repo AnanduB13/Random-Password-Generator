@@ -36,7 +36,7 @@ This project is a simple and intuitive **Random Password Generator** built with 
 
 ## Live Demo
 
-[View Demo](https://your-demo-url.com) *(Include a link if you have a live demo available)*
+[View Demo](https://anandub13.github.io/Random-Password-Generator/Password%20Gen%20Website/) 
 
 ## Author
 
